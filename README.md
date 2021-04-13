@@ -13,3 +13,7 @@ A repository containing projects for Data Analysis and Data Science. All project
 * College Major vs Salary Expectations
   - The project was done to practice basic data cleaning and processing. Using the cleaned data a few
     general questions were answered for example "which degrees have the highest starting salaries?".
+
+## Requirments.txt
+For all the projects in this repo were done in the same Conda environment and you can find the Requirments.txt
+in the main repository.
