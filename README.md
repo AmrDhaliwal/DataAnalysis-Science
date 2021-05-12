@@ -11,7 +11,7 @@ A repository containing projects for Data Analysis and Data Science. All project
   - First major project using Seaborn and Scikit-learn. Used Seaborn to visualize the data with help from the Pandas
     library. Created a linear regression model to predict the revenue of a movie.
 * College Major vs Salary Expectations
-  - The project was done to practice basic data cleaning and processing. Using the cleaned data a few
+  - This project was done to practice basic data cleaning and processing. Using the cleaned data a few
     general questions were answered for example "which degrees have the highest starting salaries?".
 
 ## Requirments.txt
